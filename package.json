@@ -1,0 +1,22 @@
+{
+  "name": "jest-demo",
+  "version": "1.0.0",
+  "description": "Dummy project to test node.js app using jest and automate it in AWS CodePipeline CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidf1000/JEST-demo.git"
+  },
+  "author": "David Fauzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidf1000/JEST-demo/issues"
+  },
+  "homepage": "https://github.com/davidf1000/JEST-demo#readme",
+  "dependencies": {
+    "jest": "^26.1.0"
+  }
+}
